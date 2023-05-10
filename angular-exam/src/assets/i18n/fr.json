@@ -1,0 +1,10 @@
+{
+    "Translation": "Traduction",
+    "Hello": "Bonjour et bienvenue dans l'application",
+    "Title": "Titre",
+    "Summarize": "Résumer",
+    "Submit": "Envoyer",
+    "ERROR" : {
+        "REQUIRED" : "Ce champ est requis",
+    }
+}

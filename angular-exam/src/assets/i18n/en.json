@@ -1,0 +1,10 @@
+{
+    "Translation": "Translation",
+    "Hello": "Hello and welcome in the application",
+    "Title": "Title",
+    "Summarize": "Summarize",
+    "Submit": "Submit",
+    "ERROR" : {
+        "REQUIRED" : "This field is required",
+    }
+}
