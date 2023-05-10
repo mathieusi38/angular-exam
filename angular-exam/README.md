@@ -5,6 +5,12 @@ Pour ce projet j'ai utilisé ngx-translate.
 Avantages de ngx-translate:
 - Plus simple à mettre en place et à utiliser
 - La bibliothèque ngx-translate permet de changer la langue de l'application sans recharger l'application
+- La bibliothèque est souvent mise à jour et maintenu
+
+# Student
+
+- Nom: Mathieu SIAUD
+- Classe: M2 IW
 
 # AngularExam
 
