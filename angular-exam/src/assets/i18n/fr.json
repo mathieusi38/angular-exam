@@ -4,7 +4,7 @@
     "Title": "Titre",
     "Summarize": "Résumer",
     "Submit": "Envoyer",
-    "ERROR" : {
-        "REQUIRED" : "Ce champ est requis",
-    }
+    "REQUIRED" : "Ce champ est requis",
+    "articleTitle": "Le nouveau macbook est incroyable",
+    "articleContent": "<p>Le nouveau MacBook est un ordinateur portable haut de gamme lancé par Apple en 2023. Il est équipé des dernières technologies et offre des performances exceptionnelles. Le MacBook a toujours été un choix populaire pour les utilisateurs d'ordinateurs portables qui ont besoin de puissance et de portabilité, et le nouveau MacBook ne fait pas exception.</p><p>    Le MacBook est disponible en deux tailles d'écran : 13 pouces et 16 pouces. Les deux modèles sont équipés de la puce M5 d'Apple, qui offre des performances incroyables. La puce M5 est construite sur l'architecture ARM et offre une efficacité énergétique incroyable, ce qui signifie que la batterie du MacBook peut durer jusqu'à 12 heures d'utilisation continue.</p>"
 }

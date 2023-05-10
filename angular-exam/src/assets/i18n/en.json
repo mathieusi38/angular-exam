@@ -4,7 +4,7 @@
     "Title": "Title",
     "Summarize": "Summarize",
     "Submit": "Submit",
-    "ERROR" : {
-        "REQUIRED" : "This field is required",
-    }
+    "REQUIRED" : "This field is required",
+    "articleTitle": "The new macbook is incridible",
+    "articleContent": "<p>The new MacBook is a high-end laptop computer launched by Apple in 2023. It is equipped with the latest technologies and offers exceptional performance. The MacBook has always been a popular choice for laptop users who need power and portability, and the new MacBook is no exception.</p><p>The MacBook is available in two screen sizes: 13-inch and 16-inch. Both models are equipped with Apple's M5 chip, which offers incredible performance. The M5 chip is built on the ARM architecture and offers incredible power efficiency, which means the MacBook battery can last up to 12 hours of continuous use.</p>"
 }

@@ -340,26 +340,21 @@
     <input type="text" class="form-control" id="title" [formControl]="title" name="title" >
 
     <div *ngIf="title.errors?.['required']">
-      {{'ERROR.REQUIRED' | translate}}
+      {{'REQUIRED' | translate}}
     </div>
 
     <label>{{'Summarize' | translate}}:</label>
     <input type="text"  class="form-control" [formControl]="description" name="description">
     <div *ngIf="description.errors?.['required']">
-      {{'ERROR.REQUIRED' | translate}}
+      {{'REQUIRED' | translate}}
     </div>
     <button class="btn btn-primary" type="submit">{{'Submit' | translate}}</button>
 
     </form>
 
+    <app-article />
 </div>
 
-<!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * -->
-<!-- * * * * * * * * * * * The content above * * * * * * * * * * * -->
-<!-- * * * * * * * * * * is only a placeholder * * * * * * * * * * -->
-<!-- * * * * * * * * * * and can be replaced. * * * * * * * * * * * -->
-<!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * -->
-<!-- * * * * * * * * * * End of Placeholder * * * * * * * * * * * -->
-<!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * -->
+
 
 <router-outlet></router-outlet>
