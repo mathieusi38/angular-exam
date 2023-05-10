@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { FormControl, FormBuilder, Validators , FormGroup } from '@angular/forms';
+import { FormControl, Validators , FormGroup } from '@angular/forms';
 import {TranslateService} from '@ngx-translate/core';
 
 @Component({
@@ -13,9 +13,8 @@ export class AppComponent {
   title: FormControl;
   description: FormControl;
   form: FormGroup = new FormGroup({});
- // title: FormControl = new FormControl("");
 
-  constructor(public translate: TranslateService, private fb: FormBuilder) {
+  constructor(public translate: TranslateService) {
 
       // this language will be used as a fallback when a translation isn't found in the current language
     if (navigator.language.split('-')[0]  == "fr") {

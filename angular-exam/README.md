@@ -1,3 +1,11 @@
+# Choix de la techno
+
+Pour ce projet j'ai utilisé ngx-translate.
+
+Avantages de ngx-translate:
+- Plus simple à mettre en place et à utiliser
+- La bibliothèque ngx-translate permet de changer la langue de l'application sans recharger l'application
+
 # AngularExam
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.5.
